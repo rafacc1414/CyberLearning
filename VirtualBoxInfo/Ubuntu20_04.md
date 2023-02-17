@@ -43,7 +43,7 @@ Select what you see in the following images:
 
 <img src="./images/Grub.JPG" alt="Grub first Option">
 
-<img src="./images/Grup_selection.JPG" alt="Grub Option">
+<img src="./images/Grub_selection.JPG" alt="Grub Option">
 
 <img src="./images/Root.JPG" alt="Root Option">
 
