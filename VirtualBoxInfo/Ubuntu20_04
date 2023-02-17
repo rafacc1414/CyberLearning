@@ -1,7 +1,0 @@
-# Configuring Ubuntu 20.04 in Virtual Box
-Go to the page https://ubuntu.com/download/desktop and download ubuntu 20.04 image
-
-## Possible problems:
-### The terminal does not open. CTRL+ALT+T does not open the terminal.
-Solution:
-Go to 
